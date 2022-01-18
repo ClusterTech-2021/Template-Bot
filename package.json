@@ -1,0 +1,29 @@
+{
+  "name": "commandhandler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "axios": "^0.24.0",
+    "chalk": "^5.0.0",
+    "cpu-stat": "^2.0.1",
+    "discord-akairo": "^8.1.0",
+    "discord-player": "^5.2.0",
+    "discord.js": "^12.5.3",
+    "images-scraper": "^6.4.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.4",
+    "os": "^0.1.2",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "translate-google": "^1.5.0",
+    "ytdl-core": "^4.9.2"
+  }
+}
